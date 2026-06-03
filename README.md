@@ -2,6 +2,9 @@
 
 ## Description
 
+Originally forked from https://github.com/neolit123/go-dualsense-battery . I'm just playing around locally on my desktop for now, seeing if I can get this to measure charging/discharging over time, in order to give comparable battery health indications. Do not bother trying to contact me or otherwise use this app - all credits and communication should go to the original user.
+
+--------------------
 A small Windows taskbar application, written in Go, for showing the battery level
 of a PlayStation 5 DualSense controller connected over Bluetooth or USB.
 
@@ -84,7 +87,7 @@ Apache 2.0. See the [LICENSE](./LICENSE) file.
 
 ## Icons and art
 
-Authored by me (neolit123) using Clip Studio Paint 1.x.
+Authored by (neolit123) using Clip Studio Paint 1.x.
 The art license is the same as the project [LICENSE](./LICENSE).
 
 ## Acknowledgements
